@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Nightscout Widget
+Name=Nightscout Widget mmol/l
 Comment=Shows your BG from Nightscout as a widget
 
 Icon=applications-other
@@ -11,7 +11,7 @@ X-Plasma-MainScript=ui/main.qml
 
 X-KDE-PluginInfo-Author=cominixo
 X-KDE-PluginInfo-Email=cominixo01@gmail.com
-X-KDE-PluginInfo-Name=org.kde.plasma.nightscoutwidget
+X-KDE-PluginInfo-Name=me.ransomti.mmol.nightscout
 X-KDE-PluginInfo-License=GPL3
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-Website=https://github.com/cominixo01
