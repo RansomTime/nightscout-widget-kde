@@ -15,7 +15,6 @@ Item {
 
         Text {
             text: "Your Nightscout url (e.g. https://appname.herokuapp.com)"
-            color: "white"
             Layout.alignment: Qt.AlignRight
         }
 
