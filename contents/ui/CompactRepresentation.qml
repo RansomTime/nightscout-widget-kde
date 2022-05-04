@@ -44,7 +44,6 @@ GridLayout {
                     var trend = trend_arrows[bgs.trend];
 
                     currentBG.text = bgs.sgv + " mmol/L " + trend;
-                    currentBG.color = "white";
                 }
             }
         }
