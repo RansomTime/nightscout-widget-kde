@@ -1,10 +1,10 @@
-import QtMultimedia 5.8
-import QtQuick 2.7
-import QtQuick.Controls 1.4
-import QtQuick.Dialogs 1.2
-import QtQuick.Layouts 1.3
+import QtMultimedia
+import QtQuick
+import QtQuick.Controls
+import QtQuick.Dialogs
+import QtQuick.Layouts
 
-import org.kde.plasma.core 2.0 as PlasmaCore
+import org.kde.plasma.core as PlasmaCore
 
 Item {
     property alias cfg_nightscoutURL: nightscoutURL.text
